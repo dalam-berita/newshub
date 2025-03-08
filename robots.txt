@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dalam-berita.github.io/newshub/sitemap.xml
